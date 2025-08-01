@@ -30,3 +30,4 @@ This is Part 3 of a 3-part AI/ML series:
 - [Race outcome analysis](https://github.com/swathikalburgi/F1-race-outcome-analysis)
 - [Weather impact analysis](https://github.com/swathikalburgi/F1-weather-impact-analysis)
 - Fan sentiment analysis *(you’re here)*
+- [Project suite](https://github.com/swathikalburgi/F1-AI-ML-project-suite)<br/>
